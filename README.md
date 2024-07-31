@@ -33,7 +33,7 @@
 ## Acknowledgements
 - This project was inspired by the need to optimize bike-sharing systems in urban areas.
 - Dataset provided by [Upgrade].
-- This project was based on [this tutorial](https://learn.upgrad.com/).
+- This project was based on (https://learn.upgrad.com/).
 
 ## Contact
 Created by [@mrchandrayee](https://github.com/mrchandrayee) - feel free to contact me!
